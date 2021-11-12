@@ -33,8 +33,15 @@ We then implement a statistical analysis to try and find the seeked correlations
 ## Proposed timeline
 The proposed timeline is calculated to be from milestone 2 until December 17th. The completion of the project is set to take five weeks. The project consists of six tasks which are data filtering and parsing (Pre-processing), deciding on the sentiment analysis algorithms, running them, linking the results into the stock value dataset, data visualization and finally generating the report and conclusions. Some tasks are able to be started as others go, but for example we cannot start running the algorithms before the data is pre-processed and we have best algorithms decided. It’s important to note that this is only the initial plan and it may be changed as the project officially starts since some tasks might be estimated to take too long or too little time. As seen in figure 1 the project has three milestones. The first one (M1) being after week 1 on the 19th of Nov, second milestone (M2) is on December 3rd, and the third milestone (M3) is on December 10th. This gives us one extra week of leeway to finalise the project before the actual project deadline. A valuable and essential task that is not shown in the Gantt-chart is the data analysis itself that is used to make sense of the results. This is something that is ongoing throughout the project which is the reason it’s not shown in the chart. 
 
+![alt text](https://github.com/epfl-ada/ada-2021-project-noname/blob/main/timeline.png)
+
 ## Milestones for the project
 * M1: Data is pre-processed and algorithms are validated
 * M2: Analysis is complete, answers to research questions 1 and 2 are found
 * M3: Datastory is ready
+
+![alt text](https://github.com/epfl-ada/ada-2021-project-noname/blob/main/workpackages.png)
+
+The project tasks are divided into work packages which can be seen in figure 1. Each team member is assigned to certain work packages.
+
 
