@@ -42,3 +42,6 @@ The proposed timeline is calculated to be from milestone 2 until December 17th. 
 
 ![alt text](https://github.com/epfl-ada/ada-2021-project-noname/blob/main/workpackages.png)
 
+The project tasks are divided into work packages which can be seen in figure 1. Each team member is assigned to certain work packages.
+
+
