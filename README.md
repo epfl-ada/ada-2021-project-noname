@@ -40,3 +40,5 @@ The proposed timeline is calculated to be from milestone 2 until December 17th. 
 * M2: Analysis is complete, answers to research questions 1 and 2 are found
 * M3: Datastory is ready
 
+![alt text](https://github.com/epfl-ada/ada-2021-project-noname/blob/main/workpackages.png)
+
