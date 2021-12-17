@@ -1,5 +1,7 @@
 ### To the [Datastory](https://hassellhoff.github.io/Datastory2/).
 
+# To the [code](https://colab.research.google.com/drive/14W_5Nf4xo_1SZa4QAp2-M-monYPIgFM7#scrollTo=hs1LCHPVhLsq)
+
 
 # Quotes and their influence on the stock market : A Data Story 
 ## Abstract
