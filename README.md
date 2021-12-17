@@ -1,3 +1,6 @@
+###To the [Datastory](https://hassellhoff.github.io/Datastory2/).
+
+
 # Quotes and their influence on the stock market : A Data Story 
 ## Abstract
 The idea of the project is to find correlation between the statements of key person’s of a company and the effect of that to the company’s stock price. The topic is examined in the case of Elon Musk and his Tesla electrical car manufacturing company. In this case example we analyse the data in the dataset of Tesla’s stock prices from 2015 - 2020. The goals of the project are to determine if there is a correlation between what a key person says and the company stock value. In addition, we want to find possible correlations between certain words used and the impact of those words on the stock price of Tesla on that day. We pursue to see how other events have an affect on the stock price. After this our goal is to forecast the future stock price of Tesla. The fundamental goal is to have an accurate analysis. 
