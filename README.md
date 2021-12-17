@@ -8,9 +8,7 @@ There are many motivators for the project. From a learning perspective it’s a 
 ## The research questions: 
 1. What was the most significant event that affected the stock price?
 2. Did the usage of certain words have a significant impact on the stock price?
-3. What can we determine from our results?
-4. How efficient were our research methods in the project?
-5. How efficient is natural language processing (Sentiment analysis) in predicting the impact of quotes on the stock market?  
+
 
 ## The data
 We load our partial data sets, the ones containing all of Elon Musk’s quotes from Quotebank, into separate DataFrame objects, one for each year.
