@@ -1,4 +1,4 @@
-###To the [Datastory](https://hassellhoff.github.io/Datastory2/).
+### To the [Datastory](https://hassellhoff.github.io/Datastory2/).
 
 
 # Quotes and their influence on the stock market : A Data Story 
